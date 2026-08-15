@@ -78,8 +78,8 @@ requirements.txt           Python dependencies
 ### 1. Create and activate a virtual environment
 
 ```powershell
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 On macOS/Linux:
